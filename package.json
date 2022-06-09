@@ -1,9 +1,9 @@
 {
   "name": "com.bearbones.highscoreplugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "tool",
   "displayName": "Highscore Plugin",
-  "description": "Simple Highscore for <Name,Score> values",
+  "description": "Simple Highscore Plugin for <Name,Score> values",
   "unity": "2020.3",
   "author": {
     "name": "Dennis Hawran",
